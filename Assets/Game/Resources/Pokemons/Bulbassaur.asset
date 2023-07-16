@@ -24,3 +24,10 @@ MonoBehaviour:
   specialAttack: 65
   specialDefense: 65
   speed: 45
+  learnableMoves:
+  - moveBase: {fileID: 0}
+    level: 0
+  - moveBase: {fileID: 0}
+    level: 0
+  - moveBase: {fileID: 0}
+    level: 0

@@ -19,7 +19,7 @@ public class Pokemon
         {
             if (move.Level <= level)
             {
-                Moves.Add(new Move(move.Base))
+                Moves.Add(new Move(move.Base));
             }
 
             if (Moves.Count > 4)   // ONLY TEMPORARY
